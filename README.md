@@ -1,7 +1,3 @@
----
-layout: default
-title: README
----
 
 # [Foree](https://apps.apple.com/my/app/foree/id1421857843)
 Foree offers a Universal Payments Interface (UPI) for P2P, P2B, B2B, G2P, P2G, payments, e-Commerce Payment Gateway and e-Identity & e-Governance solutions.
