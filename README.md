@@ -159,7 +159,7 @@ iOS Responsible for taking Lesensor(Sensor & Electrical Toolkit) mobile/iOS app 
 ### Technologies ###
 * Objective C, Sqlite
 <p align="center">
-<img src="https://github.com/hamdan/portfolio/blob/main/Projects/Lesensor/Sensor%26electricalToolkit/%201.png" width="180"  title="Sensor wiki App Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/hamdan/portfolio/blob/main/Projects/Lesensor/Sensor%26electricalToolkit/2.png" width="180" title="card Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/hamdan/portfolio/blob/main/Projects/Lesensor/Sensor%26electricalToolkit/3.png" width="190" title="iPhone version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/hamdan/portfolio/blob/main/Projects/Lesensor/Sensor%26electricalToolkit/4.png" width=210" title="iPhone version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/hamdan/portfolio/blob/main/Projects/Lesensor/Sensor%26electricalToolkit/pic1.png" width="180"  title="Sensor wiki App Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/hamdan/portfolio/blob/main/Projects/Lesensor/Sensor%26electricalToolkit/2.png" width="180" title="card Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/hamdan/portfolio/blob/main/Projects/Lesensor/Sensor%26electricalToolkit/3.png" width="190" title="iPhone version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/hamdan/portfolio/blob/main/Projects/Lesensor/Sensor%26electricalToolkit/4.png" width=210" title="iPhone version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
